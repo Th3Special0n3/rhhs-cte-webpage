@@ -1,7 +1,7 @@
 import React from 'react';
 import  '../../css/Card.css';
 
-function Card({title,imageUrl,body}) {
+function Card({title,imageUrl,body,additional}) {
     return(       
 <div className= 'card-container'>
         <div className= "image-container">
@@ -13,6 +13,9 @@ function Card({title,imageUrl,body}) {
         </div>
         <div className= "card-body">
             <p>{body}</p>
+        </div>
+        <div className= "card-body">
+            <a href={additional} className="btn btn-primary">Click Here to Learn More</a>
         </div>
     </div>    
 </div>

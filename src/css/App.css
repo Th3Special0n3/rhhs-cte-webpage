@@ -19,3 +19,11 @@
 h1{
     padding: 40px
 }
+
+li{
+    text-align:center;
+    font-size: 27.5px;
+}
+p{
+    font-size: 27.5px;
+}

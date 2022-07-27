@@ -2,28 +2,34 @@ import React from 'react';
 import Card from './Card';
 import  '../../css/Card.css';
 
+import TechnicalSkills from './technical-skills'
+import SoftSkills from './soft-skills'
+
 
 function Sepacademy() {
   return (
+      <div>
         <div className="about-sep">
-            <h1> Computers are changing everything......</h1>
+            <h1> <b>Computers are Changing Everything</b></h1>
             <p> From cell phones, GPS navigation systems, satellites, movies, to our SMART home systems ("Hey, Alexa, turn the light off please!"), our lives are changing in the speed of light. As so, technology affects every career field! We believe that every 21st century student should have a chance to learn about algorithms, how to make apps, and how the internet works, just like they learn about photosynthesis, the digestive system, or electricity.</p>
              <br></br>
             <p> In the SEP Pathway you will learn popular coding languages like Python, HTML, CSS and Javascript among others. You also have an opportunity to learn cloud computing and web design! In addittion to this, students will learn about soft skills to be the best candidate for any job, have CTE endorsement on their diploma and gain insight to how the real world operates by going on field trips and participating in internships.</p>
                  <br></br>
-                 <h2>Software Engineering Pathway Course Sequence</h2>
+                 <h2><b>Software Engineering Pathway Course Sequence</b></h2>
                       <p>Take a look at our course sequence below to see what you will be learning about in each grade!</p>
         <div className="card-bigcontainer">
         <Card
             imageUrl='https://snap.berkeley.edu/img/snap-byob.png' 
             title= '9th grade: TEALS Intro to Computer Science'
             body='Students learn basic concepts of computer science through SNAP!, an online-based programming language made by University of Berkeley and MIT. The curriculum incorporates game design and development as culminating projects.'
+            additional='https://snap.berkeley.edu/'
             />
 
         <Card
             imageUrl='https://yt3.ggpht.com/ytc/AAUvwngUVZBmVudvFKbysQZGc-aE7R-qOspK3d7lrZjI=s900-c-k-c0x00ffffff-no-rj' 
             title= '10th grade: Exploring Computer Science'
             body='Students learn the most popular coding language, Python, through Amazon-sponsored platform called Project Stem and Edhesive. Students will also able to be eligible to take PCEP – Certified  Entry-Level Python Programmer exam from Python Institute.'
+            additional='https://www.edhesive.com/'
             />
 
         <Card
@@ -39,6 +45,31 @@ function Sepacademy() {
             /> 
 
         </div>
+        <div>
+        <Card
+            imageUrl='https://cdn.glitch.global/6ac6432c-00f9-4704-bd6d-9fee9f579364/download.jpg?1657810448474"
+            alt="Image of software engineer at a computer' 
+            title= 'Technical Skills'
+            body='Technical skills are the specialized knowledge and expertise required
+            to perform specific tasks and use specific tools and programs in real
+            world situations.'
+            additional= 'https://www.coursera.org/articles/what-are-technical-skills'
+            
+            />
+        </div>
+        <TechnicalSkills/>
+        <div>
+        <Card
+            imageUrl='https://cdn.glitch.global/6ac6432c-00f9-4704-bd6d-9fee9f579364/download.jpg?1657805721587'
+            alt='Image of people in office meeting' 
+            title= 'Soft Skills'
+            body='Soft skills are skills, traits, and abilities that indicate how well
+            you work with others'
+            additional= 'https://www.indeed.com/career-advice/resumes-cover-letters/soft-skills'
+            />
+        <SoftSkills/>
+        </div>
+     </div>
      </div>
     );
 }
