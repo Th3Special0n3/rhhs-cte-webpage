@@ -2,7 +2,7 @@ import React from 'react';
 
 const TechnicalSkills = () => {
   return (
-      <div>
+      <div className="container">
   <ul>
       <li className="li1">
       <b>Programming Languages</b> - The knowledge of languages like CSS, HTML,

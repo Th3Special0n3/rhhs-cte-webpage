@@ -2,7 +2,7 @@ import React from 'react';
 
 const SoftSkills = () =>{
   return (
-      <div>
+      <div className="container">
           <ul>          
 <li class="li1"><b>Team work</b> - The ability to work with others.</li>
     <li class="li1">
