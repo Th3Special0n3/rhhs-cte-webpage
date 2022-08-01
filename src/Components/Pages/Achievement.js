@@ -1,6 +1,7 @@
 
 import React from 'react';
-import Acard from './Acard'
+import Acard from './Acard';
+import '../../css/Acheivement.css';
 
 
 const Achievement = () => {
@@ -9,16 +10,28 @@ const Achievement = () => {
             <h1>Welcome to the Student Achievement Page</h1>
             <h4>Here you will find various projects that students of the RHHS Software Engineering program have completed.</h4>
              <br></br>
-    <div className="acard-container">
+    <div className="grid-container">
+        <div className='grid-item'>
         <Acard 
         title='Fashion Game Scratch Project!'
         description='Within the first year of RHHS, students explore Scratch. With Scratch, you can program your own interactive stories, games, animations, and share your creations with others in the online community.'
-        projectlink='https://scratch.mit.edu/projects/149206977'/>
+        projectlink='https://scratch.mit.edu/projects/149206977'/></div>
 
+        <div className='grid-item'>
         <Acard 
         title='Paint Box!'
         description=' With Scratch, you can program your own interactive games!'
-        projectlink='https://scratch.mit.edu/projects/181253578'/>
+        projectlink='https://scratch.mit.edu/projects/181253578'/></div>
+        <div className='grid-item'>
+        <Acard 
+        title='Language Translator'
+        description=' This is an application created by Jaiden for his AP Computer Science Principles Performance Task. Its purpose is to help people learn simple phrases in French and Spanish.'
+        projectlink='https://scratch.mit.edu/projects/655645488'/></div>
+        <div className='grid-item'>
+        <Acard 
+        title='Language Translator'
+        description=' This is an application created by Jaiden for his AP Computer Science Principles Performance Task. Its purpose is to help people learn simple phrases in French and Spanish.'
+        projectlink='https://scratch.mit.edu/projects/655645488'/></div>
     </div>
 </div>
   )
