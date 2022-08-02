@@ -10,28 +10,29 @@ const Achievement = () => {
             <h1>Welcome to the Student Achievement Page</h1>
             <h4>Here you will find various projects that students of the RHHS Software Engineering program have completed.</h4>
              <br></br>
-    <div className="grid-container">
-        <div className='grid-item'>
+    <div className="container-fluid">
+        <div className='row'>
         <Acard 
         title='Fashion Game Scratch Project!'
         description='Within the first year of RHHS, students explore Scratch. With Scratch, you can program your own interactive stories, games, animations, and share your creations with others in the online community.'
-        projectlink='https://scratch.mit.edu/projects/149206977'/></div>
+        projectlink='https://scratch.mit.edu/projects/149206977'/>
 
-        <div className='grid-item'>
         <Acard 
         title='Paint Box!'
         description=' With Scratch, you can program your own interactive games!'
-        projectlink='https://scratch.mit.edu/projects/181253578'/></div>
-        <div className='grid-item'>
+        projectlink='https://scratch.mit.edu/projects/181253578'/>
         <Acard 
         title='Language Translator'
         description=' This is an application created by Jaiden for his AP Computer Science Principles Performance Task. Its purpose is to help people learn simple phrases in French and Spanish.'
-        projectlink='https://scratch.mit.edu/projects/655645488'/></div>
-        <div className='grid-item'>
+        projectlink='https://scratch.mit.edu/projects/655645488'/>
+
         <Acard 
-        title='Language Translator'
-        description=' This is an application created by Jaiden for his AP Computer Science Principles Performance Task. Its purpose is to help people learn simple phrases in French and Spanish.'
-        projectlink='https://scratch.mit.edu/projects/655645488'/></div>
+        title='Simple Animation'
+        description=' This is an animation one student, Jaiden, created while learning the basics of Scratch.'
+        projectlink='https://scratch.mit.edu/projects/588059460'/></div>
+
+        
+        
     </div>
 </div>
   )
