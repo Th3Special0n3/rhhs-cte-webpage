@@ -5,20 +5,19 @@ const TechnicalSkills = () => {
       <div className="container">
   <ul>
       <li className="li1">
-      <b>Programming Languages</b> - The knowledge of languages like CSS, HTML,
-      Python, <br />Java.
+      <b>Programming Languages</b> - The knowledge of languages like <br />CSS, HTML,
+      Python, Java.
     </li>
     <br />
     <li className="li1">
-      <b>Project Management</b> - Project management is the use of specific
+      <b>Project Management</b> - The use of specific
       knowledge, skills, <br />tools and techniques to deliver something of
       value to people.
     </li>
     <br />
     <li className="li1">
-      <b>Data Analysis - </b> How well you can read and analyze data from a
-      chart, graph, table, <br />
-      and document.
+      <b>Data Analysis - </b> How well you can read and analyze data from a<br />
+      chart, graph, table, and document.
     </li>
     <br />
     <li className="li1">
@@ -26,13 +25,13 @@ const TechnicalSkills = () => {
     </li>
     <br />
     <li className="li1">
-      <b>Computer and Technology Knowledge</b> - Knowledge on things like
-      servers, wifi, <br />the internet, monitors, laptops, electricity, etc.
+      <b>Computer and Technology Knowledge</b> - Knowledge on things <br />like
+      servers, wifi, the internet, monitors, laptops, electricity, etc.
     </li>
     <br />
     <li className="li1">
-      <b>Mathematics (Logic) </b>- The ability to apply mathematics and logic
-      into your <br />software and hardware.
+      <b>Mathematics (Logic) </b>- The ability to apply mathematics and<br /> logic
+      into your software and hardware.
     </li>
     <br />
     <li className="li1">
@@ -69,7 +68,7 @@ const TechnicalSkills = () => {
 
     <li className="li1">
       <b>Attention to Detail</b> - The ability to pay close attention to
-      everything in the code, and catch mistakes.
+      everything<br/> in the code, and catch mistakes.
     </li>
     </ul>
     

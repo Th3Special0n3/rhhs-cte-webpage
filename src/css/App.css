@@ -17,11 +17,14 @@
 }
 h1{
     padding-top: 20px;
+    padding-bottom: 25px;
+    text-align:center;
 }
 
 li{
     text-align:center;
     font-size: 27.5px;
+    padding-top: 25px;
 }
 p{
     font-size: 27.5px;
@@ -34,4 +37,10 @@ div.container{
 ul{
     display: inline-block;
     text-align: left;
+    padding: 30px;
+}
+h2{
+    text-align:center;
+    padding-bottom: 30px;
+    padding-top:50px;
 }

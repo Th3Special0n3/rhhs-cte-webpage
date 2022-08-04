@@ -49,6 +49,7 @@ function Sepacademy() {
         </div>
         <div>
             <h2><b>Skills Needed in the Tech Industry</b></h2> 
+            <p>In order to work in tech related fields, you need a number of technical skills that will help employers get a feel for how you will perform in your daily tasks, and soft skills to show them how you will integrate with other employees at their establishment.</p>
         <Card
             imageUrl='https://cdn.glitch.global/6ac6432c-00f9-4704-bd6d-9fee9f579364/download.jpg?1657810448474"
             alt="Image of software engineer at a computer' 
@@ -67,7 +68,7 @@ function Sepacademy() {
             alt='Image of people in office meeting' 
             title= 'Soft Skills'
             body='Soft skills are skills, traits, and abilities that indicate how well
-            you work with others'
+            you work with others. These are often overlooked by newcomers who are often decent at technical things, but dont have the necessary skills to function in a team. '
             additional= 'https://www.indeed.com/career-advice/resumes-cover-letters/soft-skills'
             />
         <SoftSkills/>

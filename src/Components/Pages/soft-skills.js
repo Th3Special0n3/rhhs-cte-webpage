@@ -10,8 +10,8 @@ const SoftSkills = () =>{
       <br />in a group or alone.
     </li>
     <li class="li1">
-      <b>Motivation</b> - The ability to have desire and action toward
-      goal-oriented behavior<br />that can be applied to your ideas.
+      <b>Motivation</b> - The ability to have desire and action <br />toward
+      goal-oriented behavior that can be applied to your ideas.
     </li>
     <br />
     <li class="li1">
@@ -79,13 +79,13 @@ const SoftSkills = () =>{
     </li>
     <br />
     <li class="li1">
-      <b>Attitude</b> - Your attitude towards certain people, learning new
-      things, upcoming <br />projects and deadlines, etc.
+      <b>Attitude</b> - Your demeanor towards certain people, learning new
+      things, <br />upcoming projects and deadlines, etc.
     </li>
     <br />
     <li class="li1">
-      <b>Negotiation</b> - The ability to communicate terms with other and
-      compromise on a <br />
+      <b>Negotiation</b> - The ability to communicate terms <br />with other and
+      compromise on a
       reasonable solution that works <br />
       for both parties.
     </li>

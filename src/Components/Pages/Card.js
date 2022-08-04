@@ -15,7 +15,7 @@ function Card({title,imageUrl,body,additional}) {
             <p>{body}</p>
         </div>
         <div className= "card-body">
-            <a href={additional} className="btn btn-primary">Click Here to Learn More</a>
+            <a href={additional} className="btn btn-primary">Click Here to View More</a>
         </div>
     </div>    
 </div>
