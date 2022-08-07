@@ -74,8 +74,7 @@ const SoftSkills = () =>{
     </li>
     <br />
     <li class="li1">
-      <b>Leadership</b> - The ability to take charge of a project/group and lead
-      others.
+      <b>Leadership</b> - The ability to take charge of a project/group and guide them towards the end goal.
     </li>
     <br />
     <li class="li1">

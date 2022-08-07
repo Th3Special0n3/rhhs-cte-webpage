@@ -35,7 +35,7 @@ const TechnicalSkills = () => {
     </li>
     <br />
     <li className="li1">
-      <b>Software Proficiency </b>- How proficient you are with operating
+      <b>Software Proficiency </b>- How skilled you are with operating
       systems.
     </li>
     <br />
@@ -50,11 +50,6 @@ const TechnicalSkills = () => {
     </li>
     <br />
     <li className="li1">
-      <b>Digital Marketing </b>- The ability to understand your target audience
-      and <br />be able to market a product that will sell well with them.
-    </li>
-    <br />
-    <li className="li1">
       <b>Technical Writing</b> - The ability to break down a complex idea into
       writing <br />that is easier for people to understand.
     </li>
@@ -63,7 +58,7 @@ const TechnicalSkills = () => {
     <br />
     <li className="li1">
       <b>Utilization of Technology/Machinery Handlement</b> - How well you can
-      <br />interact with different machinery.
+      <br />understand and interact with different machinery.
     </li>
 
     <li className="li1">

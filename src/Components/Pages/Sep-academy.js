@@ -13,7 +13,7 @@ function Sepacademy() {
             <h1> <b>Computers are Changing Everything</b></h1>
             <p> From cell phones, GPS navigation systems, satellites, movies, to our SMART home systems ("Hey, Alexa, turn the light off please!"), our lives are changing in the speed of light. As so, technology affects every career field! We believe that every 21st century student should have a chance to learn about algorithms, how to make apps, and how the internet works, just like they learn about photosynthesis, the digestive system, or electricity.</p>
              <br></br>
-            <p> In the SEP Pathway you will learn popular coding languages like Python, HTML, CSS and Javascript among others. You also have an opportunity to learn cloud computing and web design! In addittion to this, students will learn about soft skills to be the best candidate for any job, have CTE endorsement on their diploma and gain insight to how the real world operates by going on field trips and participating in internships.</p>
+            <p> In the SEP Pathway you will learn popular coding languages like Python, HTML, CSS and Javascript among others. You also have an opportunity to learn cloud computing and web design! In addition to this, students will learn about soft skills to be the best candidate for any job, have CTE endorsement on their diploma and gain insight to how the real world operates by going on field trips and participating in internships.</p>
                  <br></br>
                  <h2><b>Software Engineering Pathway Course Sequence</b></h2>
                       <p>Take a look at our course sequence below to see what you will be learning about in each grade!</p>
@@ -78,7 +78,7 @@ function Sepacademy() {
             imageUrl='https://cdn.glitch.global/77bb45a5-c3b5-4476-9b56-f65d680a9a62/images.jpg?1659017301208'
             alt='Image of people in office meeting' 
             title= 'Non-technical Jobs'
-            body='These jobs require little to no coding, but still involve technology. They still command the same type of skills as the jobs that require coding: proficiency in your line of work, and an emphasis on people skills.'
+            body='These jobs require little to no coding, but still involve technology. They still command the same type of skills as the jobs that require coding: proficiency in your line of work, and an emphasis on the soft skills.'
             additional= 'https://www.indeed.com/career-advice/finding-a-job/computer-science-jobs-without-coding'
             />
             <div className="container">
