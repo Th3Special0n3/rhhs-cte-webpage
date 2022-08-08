@@ -63,7 +63,7 @@ const TechnicalSkills = () => {
 
     <li className="li1">
       <b>Attention to Detail</b> - The ability to pay close attention to
-      everything<br/> in the code, and catch mistakes.
+      everything<br/> in the code.
     </li>
     </ul>
     

@@ -68,7 +68,7 @@ function Sepacademy() {
             alt='Image of people in office meeting' 
             title= 'Soft Skills'
             body='Soft skills are skills, traits, and abilities that indicate how well
-            you work with others. These are often overlooked by newcomers who are often decent at technical things, but dont have the necessary skills to function in a team. '
+            you work with others. These are often overlooked by newcomers, who are often good enough at technical things, but dont have the necessary skills to function in a team. '
             additional= 'https://www.indeed.com/career-advice/resumes-cover-letters/soft-skills'
             />
         <SoftSkills/>

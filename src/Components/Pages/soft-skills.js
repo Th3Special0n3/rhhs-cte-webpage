@@ -4,14 +4,13 @@ const SoftSkills = () =>{
   return (
       <div className="container">
           <ul>          
-<li class="li1"><b>Team work</b> - The ability to work with others.</li>
+<li class="li1"><b>Teamwork</b> - The ability to work with others.</li>
     <li class="li1">
       <b>Problem Solving </b> - The ability to persevere and find solutions
       <br />in a group or alone.
     </li>
     <li class="li1">
-      <b>Motivation</b> - The ability to have desire and action <br />toward
-      goal-oriented behavior that can be applied to your ideas.
+      <b>Motivation</b> - The ability to have a desire to complete a task <br/>or reach an end goal.
     </li>
     <br />
     <li class="li1">
@@ -48,8 +47,7 @@ const SoftSkills = () =>{
     </li>
     <br />
     <li class="li1">
-      <b>Organization</b> - The ability to order something in a structured
-      maner.
+      <b>Organization</b> - The ability to put and keep things in an ordered manner.
     </li>
     <br />
     <li class="li1">
