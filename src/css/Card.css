@@ -9,12 +9,14 @@ margin: 0.5rem;
 margin-top: 1.8rem;
 color: maroon;
 font-size: 1.5em;
+margin:auto;
 }
 
 
 .image-container img{
     overflow: hidden;
     height: 200px;
+    align-content:center ;
 }
 
 .card-content{
@@ -26,6 +28,7 @@ font-size: 1.5em;
 h3,p{
     margin: 0;
     padding:0;
+    text-align:center;
 }
 
 .card-title{
